@@ -1,5 +1,8 @@
 _repo: The-Young-CaptivesA-Narrative-of-the-Shipwreck-and-Suffering-of-John-and-William-Doyley_10983
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10983#The-Young-CaptivesA-Narrative-of-the-Shipwreck-and-Suffering-of-John-and-William-Doyley
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
